@@ -20,4 +20,4 @@ python imageLidarAlign.py
 ```
 
 ## Matlab
-run demo.m
+run ```demo.m```
